@@ -6,3 +6,5 @@ Add introduction
 Add purpose
 ## Deployment
 ## How to Contribuite
+## COPYRIGHT
+notice
